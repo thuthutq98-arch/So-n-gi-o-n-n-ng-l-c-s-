@@ -192,10 +192,7 @@ st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
     <p>Tác giả: Hoàng Minh Hiếu - Trường Tiểu học Hà Lang - ĐT: 0374 180 562</p>
-    <h1> Hỗ trợ cấp các tài khoản AI giá rẻ:</h1>
-    <h1> - ChatGPT -> chỉ 89k</h1>
-     <h1>- Canva -> chỉ 100k</h1>
-    <h1> - Google pro + Veo3 + Gemini pro -> chỉ 69k</h1>
+  Hỗ trợ nâng cấp các tài khoản AI giá rẻ (ChatGPT,Canva, Veo3, Gemini...)
     
 </div>
 """, unsafe_allow_html=True)
