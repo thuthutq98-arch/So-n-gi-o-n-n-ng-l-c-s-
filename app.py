@@ -191,7 +191,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Hoàng Minh Hiếu - Trường Tiểu học Hà Lang - ĐT: 0374 180 562</p>
+    <p>Tác giả: Ma Thị Minh Thu - Trường Tiểu học Sơn Lạc - ĐT: 0327 893 846</p>
   Hỗ trợ nâng cấp các tài khoản AI giá rẻ (ChatGPT,Canva, Veo3, Gemini...)
     
 </div>
@@ -349,4 +349,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Minh Hiếu - Trường Tiểu học Hà Lang - ĐT: 0374 180 562</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 -Ma Thị Minh Thu - Trường Tiểu học Sơn Lac - ĐT: 0327 893 846</div>", unsafe_allow_html=True)
